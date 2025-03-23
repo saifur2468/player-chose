@@ -1,0 +1,135 @@
+[
+    {
+        "player_id": "1",
+      "player_image": "https://i.ibb.co.com/jZ1RqgDm/gettyimages-2154844030-612x612.jpg",
+      "player_name": "Shakib Al Hasan",
+      "player_country": "Bangladesh",
+      "position": "All-rounder",
+      "bowling_category": "Left-arm spin",
+      "batting_category": "Left-handed",
+      "price": 2000,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "2",
+      "player_image": "https://i.ibb.co.com/39fTdZzG/gettyimages-1521280412-612x612.jpg",
+      "player_name": "Virat Kohli",
+      "player_country": "India",
+      "position": "Batsman",
+      "bowling_category": "N/A",
+      "batting_category": "Right-handed",
+      "price": 3000,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "3",
+      "player_image": "https://i.ibb.co.com/tTqRKhcD/gettyimages-1713408997-612x612.jpg",
+      "player_name": "Babar Azam",
+      "player_country": "Pakistan",
+      "position": "Batsman",
+      "bowling_category": "N/A",
+      "batting_category": "Right-handed",
+      "price": 2500,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "4",
+      "player_image": "https://i.ibb.co.com/nNDwQ7kY/gettyimages-1802032000-612x612.jpg",
+      "player_name": "Mitchell Starc",
+      "player_country": "Australia",
+      "position": "Bowler",
+      "bowling_category": "Left-arm fast",
+      "batting_category": "Left-handed",
+      "price": 1800,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "5",
+      "player_image": "https://i.ibb.co.com/FbSXJtZr/gettyimages-464292610-612x612.jpg",
+      "player_name": "Chris Gayle",
+      "player_country": "West Indies",
+      "position": "Batsman",
+      "bowling_category": "N/A",
+      "batting_category": "Left-handed",
+      "price": 2200,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "6",
+        "player_image": "https://i.ibb.co.com/pjHNBK0N/gettyimages-1802461910-612x612.jpg",
+      "player_name": "Travis Head",
+      "player_country": "Australia",
+      "position": "Batsman",
+      "bowling_category": "N/A",
+      "batting_category": "Left-handed",
+      "price": 1000,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "7",
+      "player_image": "https://i.ibb.co.com/pjQMFYCj/gettyimages-1494304604-612x612.jpg",
+      "player_name": "MS Dhoni",
+      "player_country": "India",
+      "position": "Wi-batman",
+      "bowling_category": "N/A",
+      "batting_category": "Right-handed",
+      "price": 2800,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "8",
+      "player_image": "https://i.ibb.co.com/YsG3cjT/gettyimages-1711533800-612x612.jpg",
+      "player_name": "Mushfiqur Rahim",
+      "player_country": "Bangladesh",
+      "position": "Wi-batman",
+      "bowling_category": "N/A",
+      "batting_category": "Right-handed",
+      "price": 3500,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "9",
+      "player_image": "https://i.ibb.co.com/q3wfnS1d/gettyimages-2155145085-612x612.jpg",
+      "player_name": "Rohit Sharma",
+      "player_country": "India",
+      "position": "Batsman",
+      "bowling_category": "N/A",
+      "batting_category": "Right-handed",
+      "price": 2600,
+      "choose_player_button": "Choose Player"
+    },
+    {
+        "player_id": "10",
+      "player_image": "https://i.ibb.co.com/SXkQShYn/gettyimages-1498174936-612x612.jpg",
+      "player_name": "Moeen Ali",
+      "player_country": "England",
+      "position": "All-rounder",
+      "bowling_category": "Off-spin",
+      "batting_category": "Left-handed",
+      "price": 2000,
+      "choose_player_button": "Choose Player"
+    },
+    {
+      "player_id": "11",
+      "player_image": "https://i.ibb.co.com/YBbfSQ9v/gettyimages-1713072115-612x612.jpg",
+      "player_name": "Glenn Maxwell",
+      "player_country": "Australia",
+      "position": "All-rounder",
+      "bowling_category": "Off-spin",
+      "batting_category": "Right-handed",
+      "price": 2300,
+      "choose_player_button": "Choose Player"
+    },
+    {
+      "player_id": "12",
+      "player_image": "https://i.ibb.co.com/d49hVSX1/gettyimages-1713061095-612x612.jpg",
+      "player_name": "David Warner",
+      "player_country": "Australia",
+      "position": "Batsman",
+      "bowling_category": "N/A",
+      "batting_category": "Left-handed",
+      "price": 2000,
+      "choose_player_button": "Choose Player"
+    }
+  ]
+  
